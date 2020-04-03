@@ -61,44 +61,84 @@
         </div>
 
         <div class="part_1">
-        <p>Chadgaon abashik area,A-block...</p>
-        <h1><img src="images/taka.png" width="17"/> 40,000</h1>
-        <h4><img src="images/bedlogo.png" width="15"/>4 &nbsp; <img src="images/bathtub.png" width="15"/> 5 &nbsp;&nbsp; 3000 sqft.</h4>
+          <table>
+            <td><img src="images/flat1.png" style="width:400px;"></td>
+            <td>
+              <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chadgaon abashik area,A-block...</h2>
+              <h1>&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/taka.png" width="17"/> 40,000</h1>
+              <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/bedlogo.png" width="15"/>4 &nbsp; <img src="images/bathtub.png" width="15"/> 5 &nbsp;&nbsp; 3000 sqft.</h4>
+            </td>
+        </table>
         </div>
         <div class="part_1">
-        <p>Chadgaon abashik area,A-block...</p>
-        <h1><img src="images/taka.png" width="17"/> 40,000</h1>
-        <h4><img src="images/bedlogo.png" width="15"/>4 &nbsp; <img src="images/bathtub.png" width="15"/> 5 &nbsp;&nbsp; 3000 sqft.</h4>
+          <table>
+            <td><img src="images/flat2.jpg" style="width:400px;"></td>
+            <td>
+              <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chadgaon abashik area,A-block...</h2>
+              <h1>&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/taka.png" width="17"/> 40,000</h1>
+              <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/bedlogo.png" width="15"/>4 &nbsp; <img src="images/bathtub.png" width="15"/> 5 &nbsp;&nbsp; 3000 sqft.</h4>
+            </td>
+        </table>
         </div>
         <div class="part_1">
-        <p>Chadgaon abashik area,A-block...</p>
-        <h1><img src="images/taka.png" width="17"/> 40,000</h1>
-        <h4><img src="images/bedlogo.png" width="15"/> 4 &nbsp; <img src="images/bathtub.png" width="15"/> 5 &nbsp;&nbsp; 3000 sqft.</h4>
+          <table>
+            <td><img src="images/flat1.png" style="width:400px;"></td>
+            <td>
+              <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chadgaon abashik area,A-block...</h2>
+              <h1>&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/taka.png" width="17"/> 40,000</h1>
+              <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/bedlogo.png" width="15"/>4 &nbsp; <img src="images/bathtub.png" width="15"/> 5 &nbsp;&nbsp; 3000 sqft.</h4>
+            </td>
+        </table>
         </div>
         <div class="part_1">
-        <p>Chadgaon abashik area,A-block...</p>
-        <h1><img src="images/taka.png" width="17"/> 40,000</h1>
-        <h4><img src="images/bedlogo.png" width="15"/>4 &nbsp; <img src="images/bathtub.png" width="15"/> 5 &nbsp;&nbsp; 3000 sqft.</h4>
+          <table>
+            <td><img src="images/flat2.jpg" style="width:400px;"></td>
+            <td>
+              <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chadgaon abashik area,A-block...</h2>
+              <h1>&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/taka.png" width="17"/> 40,000</h1>
+              <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/bedlogo.png" width="15"/>4 &nbsp; <img src="images/bathtub.png" width="15"/> 5 &nbsp;&nbsp; 3000 sqft.</h4>
+            </td>
+        </table>
         </div>
         <div class="part_1">
-        <p>Chadgaon abashik area,A-block...</p>
-        <h1><img src="images/taka.png" width="17"/> 40,000</h1>
-        <h4> <img src="images/bedlogo.png" width="15"/> 4 &nbsp; <img src="images/bathtub.png" width="15"/> 5 &nbsp;&nbsp; 3000 sqft.</h4>
+          <table>
+            <td><img src="images/flat1.png" style="width:400px;"></td>
+            <td>
+              <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chadgaon abashik area,A-block...</h2>
+              <h1>&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/taka.png" width="17"/> 40,000</h1>
+              <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/bedlogo.png" width="15"/>4 &nbsp; <img src="images/bathtub.png" width="15"/> 5 &nbsp;&nbsp; 3000 sqft.</h4>
+            </td>
+        </table>
         </div>
         <div class="part_1">
-        <p>Chadgaon abashik area,A-block...</p>
-        <h1><img src="images/taka.png" width="17"/> 40,000</h1>
-        <h4><img src="images/bedlogo.png" width="15"/> 4 &nbsp; <img src="images/bathtub.png" width="15"/> 5 &nbsp;&nbsp; 3000 sqft.</h4>
+          <table>
+            <td><img src="images/flat2.jpg" style="width:400px;"></td>
+            <td>
+              <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chadgaon abashik area,A-block...</h2>
+              <h1>&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/taka.png" width="17"/> 40,000</h1>
+              <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/bedlogo.png" width="15"/>4 &nbsp; <img src="images/bathtub.png" width="15"/> 5 &nbsp;&nbsp; 3000 sqft.</h4>
+            </td>
+        </table>
         </div>
         <div class="part_1">
-        <p>Chadgaon abashik area,A-block...</p>
-        <h1><img src="images/taka.png" width="17"/> 40,000</h1>
-        <h4><img src="images/bedlogo.png" width="15"/> 4 &nbsp; <img src="images/bathtub.png" width="15"/> 5 &nbsp;&nbsp; 3000 sqft.</h4>
+          <table>
+            <td><img src="images/flat1.png" style="width:400px;"></td>
+            <td>
+              <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chadgaon abashik area,A-block...</h2>
+              <h1>&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/taka.png" width="17"/> 40,000</h1>
+              <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/bedlogo.png" width="15"/>4 &nbsp; <img src="images/bathtub.png" width="15"/> 5 &nbsp;&nbsp; 3000 sqft.</h4>
+            </td>
+        </table>
         </div>
         <div class="part_1">
-        <p>Chadgaon abashik area,A-block...</p>
-        <h1><img src="images/taka.png" width="17"/> 40,000</h1>
-        <h4><img src="images/bedlogo.png" width="15"/> 4 &nbsp; <img src="images/bathtub.png" width="15"/> 5 &nbsp;&nbsp; 3000 sqft.</h4>
+          <table>
+            <td><img src="images/flat2.jpg" style="width:400px;"></td>
+            <td>
+              <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chadgaon abashik area,A-block...</h2>
+              <h1>&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/taka.png" width="17"/> 40,000</h1>
+              <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/bedlogo.png" width="15"/>4 &nbsp; <img src="images/bathtub.png" width="15"/> 5 &nbsp;&nbsp; 3000 sqft.</h4>
+            </td>
+        </table>
         </div>
 
 

@@ -56,7 +56,7 @@
         <td>
           <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chadgaon abashik area,A-block...</h2>
           <h1>&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/taka.png" width="17"/> 40,000</h1>
-          <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/bedlogo.png" width="15"/>4 &nbsp; <img src="images/bathtub.png" width="15"/> 5 &nbsp;&nbsp; 3000 sqft.</h4>
+          <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/bedlogo.png" width="15"/>4 &nbsp; <img src="images/bathtub.png" width="15"/> 5 &nbsp;&nbsp; 3000 sqft.<a href="Login.php">  See more...</a></h4>
         </td>
     </table>
     </div>
@@ -66,7 +66,7 @@
         <td>
           <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chadgaon abashik area,A-block...</h2>
           <h1>&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/taka.png" width="17"/> 40,000</h1>
-          <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/bedlogo.png" width="15"/>4 &nbsp; <img src="images/bathtub.png" width="15"/> 5 &nbsp;&nbsp; 3000 sqft.</h4>
+          <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/bedlogo.png" width="15"/>4 &nbsp; <img src="images/bathtub.png" width="15"/> 5 &nbsp;&nbsp; 3000 sqft.<a href="Login.php">  See more...</a></h4>
         </td>
     </table>
     </div>
@@ -76,7 +76,7 @@
         <td>
           <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chadgaon abashik area,A-block...</h2>
           <h1>&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/taka.png" width="17"/> 40,000</h1>
-          <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/bedlogo.png" width="15"/>4 &nbsp; <img src="images/bathtub.png" width="15"/> 5 &nbsp;&nbsp; 3000 sqft.</h4>
+          <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/bedlogo.png" width="15"/>4 &nbsp; <img src="images/bathtub.png" width="15"/> 5 &nbsp;&nbsp; 3000 sqft.<a href="Login.php">  See more...</a></h4>
         </td>
     </table>
     </div>
@@ -86,7 +86,7 @@
         <td>
           <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chadgaon abashik area,A-block...</h2>
           <h1>&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/taka.png" width="17"/> 40,000</h1>
-          <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/bedlogo.png" width="15"/>4 &nbsp; <img src="images/bathtub.png" width="15"/> 5 &nbsp;&nbsp; 3000 sqft.</h4>
+          <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/bedlogo.png" width="15"/>4 &nbsp; <img src="images/bathtub.png" width="15"/> 5 &nbsp;&nbsp; 3000 sqft.<a href="Login.php">  See more...</a></h4>
         </td>
     </table>
     </div>
@@ -96,7 +96,7 @@
         <td>
           <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chadgaon abashik area,A-block...</h2>
           <h1>&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/taka.png" width="17"/> 40,000</h1>
-          <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/bedlogo.png" width="15"/>4 &nbsp; <img src="images/bathtub.png" width="15"/> 5 &nbsp;&nbsp; 3000 sqft.</h4>
+          <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/bedlogo.png" width="15"/>4 &nbsp; <img src="images/bathtub.png" width="15"/> 5 &nbsp;&nbsp; 3000 sqft.<a href="Login.php">  See more...</a></h4>
         </td>
     </table>
     </div>
@@ -106,7 +106,7 @@
         <td>
           <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chadgaon abashik area,A-block...</h2>
           <h1>&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/taka.png" width="17"/> 40,000</h1>
-          <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/bedlogo.png" width="15"/>4 &nbsp; <img src="images/bathtub.png" width="15"/> 5 &nbsp;&nbsp; 3000 sqft.</h4>
+          <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/bedlogo.png" width="15"/>4 &nbsp; <img src="images/bathtub.png" width="15"/> 5 &nbsp;&nbsp; 3000 sqft.<a href="Login.php">  See more...</a></h4>
         </td>
     </table>
     </div>
@@ -116,7 +116,7 @@
         <td>
           <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chadgaon abashik area,A-block...</h2>
           <h1>&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/taka.png" width="17"/> 40,000</h1>
-          <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/bedlogo.png" width="15"/>4 &nbsp; <img src="images/bathtub.png" width="15"/> 5 &nbsp;&nbsp; 3000 sqft.</h4>
+          <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/bedlogo.png" width="15"/>4 &nbsp; <img src="images/bathtub.png" width="15"/> 5 &nbsp;&nbsp; 3000 sqft.<a href="Login.php">  See more...</a></h4>
         </td>
     </table>
     </div>
@@ -126,7 +126,7 @@
         <td>
           <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chadgaon abashik area,A-block...</h2>
           <h1>&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/taka.png" width="17"/> 40,000</h1>
-          <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/bedlogo.png" width="15"/>4 &nbsp; <img src="images/bathtub.png" width="15"/> 5 &nbsp;&nbsp; 3000 sqft.</h4>
+          <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/bedlogo.png" width="15"/>4 &nbsp; <img src="images/bathtub.png" width="15"/> 5 &nbsp;&nbsp; 3000 sqft.<a href="Login.php">  See more...</a></h4>
         </td>
     </table>
     </div>

@@ -3,7 +3,7 @@
 
   //db connection
   $db = mysqli_connect("localhost", "root", "");
-  mysqli_select_db($db, "registry");
+  mysqli_select_db($db, "basha_bhara");
   //signup
   if(isset($_POST['signup'])){
     $username = $_POST['username'];

@@ -82,7 +82,7 @@
         </div>
         <div class="part_1">
           <table>
-            <td><a href="index.html"><img src="images/flat1.png" style="width:400px;"></a></td>
+            <td><a href="index.html"><img src="images/flat3.png" style="width:400px;"></a></td>
             <td>
               <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chadgaon abashik area,A-block...</h2>
               <h1>&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/taka.png" width="17"/> 40,000</h1>
@@ -122,7 +122,7 @@
         </div>
         <div class="part_1">
           <table>
-            <td><a href="index.html"><img src="images/flat1.png" style="width:400px;"></a></td>
+            <td><a href="index.html"><img src="images/flat3.png" style="width:400px;"></a></td>
             <td>
               <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chadgaon abashik area,A-block...</h2>
               <h1>&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/taka.png" width="17"/> 40,000</h1>

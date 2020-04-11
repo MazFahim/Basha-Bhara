@@ -2,8 +2,16 @@
   session_start();
 
   //db connection
-  $db = mysqli_connect("localhost", "root", "");
-  mysqli_select_db($db, "basha_bhara");
+ $servername= "localhost";
+ $dbUsername= "root";
+ $dbPassword= "";
+ $dbName="basha_bhara";
+
+ $conn=mysqli_connect($servername,$dbUsername,$dbPassword,$dbName);
+
+ if(!$conn){
+  die("Connection failed: ".mysqli_connect_error());
+ }
   //signup
   if(isset($_POST['signup'])){
     $username = $_POST['username'];
@@ -13,12 +21,12 @@
     $phone = $_POST['phone'];
     $gender = $_POST['gender'];
 
-    $select = "SELECT * FROM users WHERE username = '$username'";
-    $result = mysqli_query($db, $select);
+    $select = "SELECT * FROM user_info WHERE Name = '$username'";
+    $result = mysqli_query($conn, $select);
     $row = mysqli_fetch_array($result);
-    if ($row['username'] != $username) {
-      $insert = "INSERT INTO users (username, password, email, address, phone, gender) VALUES ('$username', '$password', '$email', '$address', '$phone', '$gender')";
-      mysqli_query($db, $insert);
+    if ($row['Name'] != $username) {
+      $insert = "INSERT INTO user_info (Name, Password, Email, Address, Phone, sex) VALUES ('$username', '$password', '$email', '$address', '$phone', '$gender')";
+      mysqli_query($conn, $insert);
       ?>
         <script type="text/javascript">
           alert("record inserted successfully");
@@ -44,10 +52,10 @@
     $username = $_POST['username'];
     $password = $_POST['password'];
 
-    $select = "SELECT * FROM users WHERE username = '$username' && password = '$password'";
-    $result = mysqli_query($db, $select);
+    $select = "SELECT * FROM user_info WHERE Name = '$username' && Password = '$password'";
+    $result = mysqli_query($conn, $select);
     $row = mysqli_fetch_array($result);
-    if ($row['username'] == $username) {
+    if ($row['Name'] == $username) {
       $_SESSION['username'] = $username;
       $_SESSION['success'] = "You are now logged in";
       header('location: home.php');

@@ -26,12 +26,12 @@
 
     </head>
     <body>
-      <form action="Login.php" method="post">
+      <form action="home.php" method="post">
         <div class="navbar">
           <img src ="images/navbar.png"  width="60">
         </div>
         <div class="profile" >
-          <input type="image" src="images/profile.png" name="Profile"  width="60">
+            <a href="Login.php"><img src="images/profile.png" style="width:60px;"></a>
         </div>
         <center><h1>BashaBhara.Com</h1></center>
         <div class="table-box">

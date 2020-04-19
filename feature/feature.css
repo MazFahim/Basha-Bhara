@@ -10,7 +10,7 @@
 }
 h2{
     position: absolute;
-    left: 72px;
+    left: 80px;
     top: -15px;
     letter-spacing: 1px;
     font-size: 2em;
@@ -29,17 +29,16 @@ h2{
     background: whitesmoke;
     text-align: center;
     display: inline-block;
-    
+
 }
 .items img{
-    width: 30%;
-    height: 40%;
+    width: 45%;
+    height: 55%;
     padding: 22px 0;
 }
 p{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    letter-spacing: 1px;
-   
+    letter-spacing: 2px;
 }
 .btn{
     padding: 65px;

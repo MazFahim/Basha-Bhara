@@ -26,12 +26,12 @@
 
     </head>
     <body>
-      <form action="Login.php" method="post">
+      <form action="home.php" method="post">
         <div class="navbar">
           <img src ="images/navbar.png"  width="60">
         </div>
         <div class="profile" >
-          <input type="image" src="images/profile.png" name="Profile"  width="60">
+            <a href="Login.php"><img src="images/profile.png" style="width:60px;"></a>
         </div>
         <center><h1>BashaBhara.Com</h1></center>
         <div class="table-box">
@@ -92,7 +92,7 @@
         </div>
         <div class="part_1">
           <table>
-            <td><a href="index.html"><img src="images/flat2.jpg" style="width:400px;"></a></td>
+            <td><a href="index.html"><img src="images/flat4.png" style="width:400px;"></a></td>
             <td>
               <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chadgaon abashik area,A-block...</h2>
               <h1>&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/taka.png" width="17"/> 40,000</h1>
@@ -132,7 +132,7 @@
         </div>
         <div class="part_1">
           <table>
-            <td><a href="index.html"><img src="images/flat2.jpg" style="width:400px;"></a></td>
+            <td><a href="index.html"><img src="images/flat4.png" style="width:400px;"></a></td>
             <td>
               <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chadgaon abashik area,A-block...</h2>
               <h1>&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/taka.png" width="17"/> 40,000</h1>

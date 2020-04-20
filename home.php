@@ -14,7 +14,7 @@
     <meta charset="utf-8">
     <link rel="stylesheet"  type="text/css" href="css/Home.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed&display=swap" rel="stylesheet">
-    <title>Bashaara.com</title>
+    <title>BashaBhara.com</title>
 
     <script type="text/javascript">
 
@@ -28,7 +28,7 @@
     <body>
       <form action="home.php" method="post">
         <div class="navbar">
-          <img src ="images/navbar.png"  width="60">
+          <a href="feature/feature.html"><img src ="images/navbar.png"  width="60"></a>
         </div>
         <div class="profile" >
             <a href="Login.php"><img src="images/profile.png" style="width:60px;"></a>

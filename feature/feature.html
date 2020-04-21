@@ -1,3 +1,19 @@
+<?php
+  session_start();
+
+  //db connection
+ $servername= "localhost";
+ $dbUsername= "root";
+ $dbPassword= "";
+ $dbName="basha_bhara";
+
+ $conn=mysqli_connect($servername,$dbUsername,$dbPassword,$dbName);
+
+ if(!$conn){
+  die("Connection failed: ".mysqli_connect_error());
+ }
+ 
+ ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>

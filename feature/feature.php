@@ -1,19 +1,6 @@
 <?php
-  session_start();
-
-  //db connection
- $servername= "localhost";
- $dbUsername= "root";
- $dbPassword= "";
- $dbName="basha_bhara";
-
- $conn=mysqli_connect($servername,$dbUsername,$dbPassword,$dbName);
-
- if(!$conn){
-  die("Connection failed: ".mysqli_connect_error());
- }
- 
- ?>
+  include('../server.php');
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -25,7 +12,7 @@
 </head>
 <body>
     <section id="sec">
-   <div class="head"> 
+   <div class="head">
        <h2>Feature</h2>
     </div>
    <div class="row">
@@ -77,10 +64,10 @@
         <img src="water.png" alt="">
         <p>24 hour water</p>
       </div>
-                                                  
+
 
    </div>
-    
+
    <div class="btn">
         <a href="">Submit</a>
    </div>

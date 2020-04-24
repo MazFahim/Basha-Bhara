@@ -28,7 +28,7 @@
     <body>
       <form action="home.php" method="post">
         <div class="navbar">
-          <a href="feature/feature.html"><img src ="images/navbar.png"  width="60"></a>
+          <a href="feature/feature.php"><img src ="images/navbar.png"  width="60"></a>
         </div>
         <div class="profile" >
             <a href="Login.php"><img src="images/profile.png" style="width:60px;"></a>

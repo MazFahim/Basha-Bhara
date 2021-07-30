@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 <?php include('input.php'); ?>
+=======
+<<<<<<<< HEAD:feature/feature.php
+<?php
+  include('../server.php');
+?>
+========
+>>>>>>>> 4c66fb27a0566305221462e000b465158ca853be:feature/feature.html
+>>>>>>> 4c66fb27a0566305221462e000b465158ca853be
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,12 +15,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="feature.css">
+<<<<<<< HEAD
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+=======
+>>>>>>> 4c66fb27a0566305221462e000b465158ca853be
     <title>Input</title>
     <style type="text/css">
       #inp{
         margin-left: 80px;
       }
+<<<<<<< HEAD
       #b{
         background-color: #0FBD04;
         border-radius: 5px;
@@ -114,3 +127,89 @@
     </form>
 </body>
 </html>
+=======
+    </style>
+</head>
+<body>
+  <header>
+        <center>
+          <h1>BashaBhara.com</h1>
+        </center>
+      </header>
+      <h3>**You should enter at least 1 picture of every room of your home</h3>
+      <br>
+      <div id="inp">
+        <form>
+          <label>Enter the number of bedrooms in your house:</label>
+          <input type="number" name="room_no" min="1"><br><br>
+          <label>Enter the number of bathrooms in your house:</label>
+          <input type="number" name="bath_no" min="1"><br><br>
+          <label>Enter the number of balconies in your house:</label>
+          <input type="number" name="bath_no" min="0"><br>
+          <p>Enter the address of your house:</p>
+          <textarea name="address" rows="6" cols="50"></textarea>
+        </form>
+      </div>
+    <section id="sec">
+   <div class="head">
+       <h2>Feature</h2>
+    </div>
+   <div class="row">
+     <div class="items">
+        <img src="cctv.png" alt="" >
+        <button class="btn-default btn-small">CCTV</button>
+      </div>
+      <div class="items">
+        <img src="m.png" alt="">
+        <button class="btn-default btn-small">Elevator</button>
+      </div>
+      <div class="items">
+        <img src="n.png" alt="">
+        <button class="btn-default btn-small">Electricity backup</button>
+      </div>
+      <div class="items">
+        <img src="b.png" alt="">
+         <button class="btn-default btn-small">Intercom</button>
+      </div>
+      <div class="items">
+        <img src="download.png" alt="">
+        <button class="btn-default btn-small">Tiles</button>
+      </div>
+      <div class="items">
+        <img src="heater.png" alt="">
+        <button class="btn-default btn-small">Heater</button>
+      </div>
+      <div class="items">
+        <img src="terrace.png" alt="">
+        <button class="btn-default btn-small">Terrace</button>
+      </div>
+      <div class="items">
+            <img src="trash.png" alt="">
+            <button class="btn-default btn-small">Trash</button>
+      </div>
+      <div class="items">
+            <img src="t.png" alt="">
+            <button class="btn-default btn-small">Parking</button>
+      </div>
+      <div class="items">
+        <img src="water.png" alt="">
+        <button class="btn-default btn-small">24 hour water</button>
+      </div>
+
+
+   </div>
+<<<<<<<< HEAD:feature/feature.php
+
+   <div class="btn">
+========
+    
+   <div id="sub" class="btn">
+>>>>>>>> 4c66fb27a0566305221462e000b465158ca853be:feature/feature.html
+        <a href="">Submit</a>
+   </div>
+
+
+</section>
+</body>
+</html>
+>>>>>>> 4c66fb27a0566305221462e000b465158ca853be

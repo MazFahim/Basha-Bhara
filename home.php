@@ -34,6 +34,12 @@
     </head>
     <body>
       <form action="home.php" method="post">
+<<<<<<< HEAD
+=======
+        <div class="navbar">
+          <a href="feature/feature.php"><img src ="images/navbar.png"  width="60"></a>
+        </div>
+>>>>>>> 4c66fb27a0566305221462e000b465158ca853be
         <div class="profile" >
             <a href="Login.php"><img src="images/profile.png" style="width:60px;"></a>
         </div>

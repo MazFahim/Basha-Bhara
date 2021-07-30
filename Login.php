@@ -28,7 +28,7 @@
     <input class="btn" type="submit" name="signin" value="Sign In">
       <div class="bottom-text">
         <input type="checkbox" name="checked" checked="checked"><p>Remember me</p>
-        <a href="#">Forgot password</a>
+        <a href="pass/forget.php">Forgot password</a>
       </div>
 
     <hr>

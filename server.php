@@ -5,7 +5,7 @@
  $servername= "localhost";
  $dbUsername= "root";
  $dbPassword= "";
- $dbName="basha_bhara";
+ $dbName="fuuls_basha";
 
  $conn=mysqli_connect($servername,$dbUsername,$dbPassword,$dbName);
 
@@ -19,13 +19,12 @@
     $email = $_POST['email'];
     $address = $_POST['address'];
     $phone = $_POST['phone'];
-    $gender = $_POST['gender'];
-
+    
     $select = "SELECT * FROM user_info WHERE Name = '$username'";
     $result = mysqli_query($conn, $select);
     $row = mysqli_fetch_array($result);
     if ($row['Name'] != $username) {
-      $insert = "INSERT INTO user_info (Name, Password, Email, Address, Phone, sex) VALUES ('$username', '$password', '$email', '$address', '$phone', '$gender')";
+      $insert = "INSERT INTO user_info (Name, Password, Email, Address, Phone) VALUES ('$username', '$password', '$email', '$address', '$phone')";
       mysqli_query($conn, $insert);
       ?>
         <script type="text/javascript">

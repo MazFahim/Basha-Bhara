@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <link rel="stylesheet"  type="text/css" href="css/Home.css">
 <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed&display=swap" rel="stylesheet">
-<title>Bashavara.com</title>
+<title>BashaBhara.com</title>
 
 <script type="text/javascript">
 
@@ -23,7 +23,7 @@
     <div class="profile" >
       <input type="image" src="images/profile.png" name="Profile"  width="60">
     </div>
-    <center><h1>BashaVara.Com</h1></center>
+    <center><h1>BashaBhara.Com</h1></center>
     <div class="table-box">
     <div class="table-row">
     <div class="table-cell">

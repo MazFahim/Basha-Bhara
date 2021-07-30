@@ -39,10 +39,6 @@
           <input type="Password" placeholder="Confirm Password" name="password" value="" required>
         </div>
 
-        <div class="Gender">
-          <input type="radio" name="gender" value="m" required> Male
-          <input type="radio" name="gender" value="f" required>Female
-        </div>
         <p><span><input type="checkbox" </span> I agree to the terms of services </p>
 
         <input class="btn" type="submit" name="signup" value="Sign Up">

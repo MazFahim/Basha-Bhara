@@ -4,6 +4,15 @@
 		<meta charset="utf-8" />
 		<link rel="stylesheet" type="text/css" href="css/Home.css" />
 		<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed&display=swap" rel="stylesheet" />
+		<!--font awesome cdn-->
+		<link
+			rel="stylesheet"
+			href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+			integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w=="
+			crossorigin="anonymous"
+			referrerpolicy="no-referrer"
+		/>
+
 		<title>BashaBhara.com</title>
 
 		<script type="text/javascript">
@@ -20,30 +29,22 @@
 			<div class="profile">
 				<input type="image" src="images/profile.png" name="Profile" width="60" />
 			</div>
-			<center><h1>BashaBhara</h1></center>
-			<div class="table-box">
-				<div class="table-row">
-					<div class="table-cell">
-						<p><img src="images/location.png" width="30" /> Chittagong</p>
-					</div>
-					<div class="table-cell">
-						<p>Family</p>
-					</div>
+			<center><h1 class="title">BashaBhara</h1></center>
+
+			<h1 class="category">Choose your home category</h1>
+			<div class="midpart">
+				<div class="select">
+					<select name="slct" id="slct">
+						<option selected disabled>Choose an option</option>
+						<option value="1">Family</option>
+						<option value="2">Bachelor</option>
+					</select>
 				</div>
-			</div>
-			<div id="sidebar" onclick="togglemenu()">
-				<div class="toggle-btn">
-					<span></span>
-					<span></span>
-					<span></span>
+
+				<div class="container">
+					<input placeholder="Search..." class="js-search" type="text" />
+					<i class="fa fa-search"></i>
 				</div>
-				<ul>
-					<li>Newest</li>
-					<li>Oldest</li>
-					<li>Price(High-Low)</li>
-					<li>Rating(Highest)</li>
-					<li>Rating(Lowest)</li>
-				</ul>
 			</div>
 
 			<div class="part">

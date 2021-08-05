@@ -13,6 +13,7 @@ body {
 }
 
 .title {
+	font-size: 36px;
 	margin-bottom: 40px;
 }
 
@@ -79,21 +80,25 @@ body {
 }
 
 .part_1 {
-	width: 70%;
+	width: 58%;
 	background-color: #eee;
+	background: url("../images/html b.jpg") center no-repeat;
+	background-size: cover;
 	color: #000000;
-	margin-left: 20px;
-	margin-right: 20px;
 	display: flex;
 	align-items: center;
 	justify-content: center;
+	padding-top: 15px;
+	transform: translateX(10px);
 }
 
 .part {
+	display: flex;
+	flex-direction: column;
 	margin-top: 40px;
-	position: absolute;
-	left: 15%;
 	width: 100%;
+	justify-content: center;
+	align-items: center;
 }
 
 .midpart {
@@ -103,14 +108,13 @@ body {
 
 .category {
 	margin-top: 10px;
-	font-size: 25px;
-	padding-top: 20px;
-	padding-left: 10px;
+	font-size: 19px;
+	padding-left: 30px;
 }
 
 .select {
 	display: flex;
-	height: 30px;
+	height: 28px;
 	width: 15%;
 	position: relative;
 	left: 2%;
@@ -119,13 +123,13 @@ body {
 }
 
 select {
-	color: #fff;
+	color: rgb(131, 131, 131);
 	width: 100%;
 	display: flex;
 	justify-content: center;
 	align-items: center;
 	cursor: pointer;
-	background: #7addc8;
+	background: rgb(221, 215, 215);
 	outline: none;
 	border: 0;
 	border-radius: 5px;
@@ -138,7 +142,8 @@ select {
 	top: 0;
 	right: 0;
 	padding: 5px 5px;
-	background: #7addc8;
+	background: black;
+	color: #fff;
 	cursor: pointer;
 	pointer-events: none;
 	transition: 0.25s all ease;
@@ -147,7 +152,7 @@ select {
 }
 
 .select:hover::after {
-	color: #fff;
+	color: dodgerblue;
 }
 
 /* Search  */
@@ -157,33 +162,35 @@ select {
 	justify-content: center;
 	align-items: center;
 	position: relative;
-	right: 70px;
+	right: 21px;
 }
 
 input[type="text"] {
 	position: relative;
 	padding: 15px 40px 15px 20px;
-	width: 0;
-	color: #525252;
+	width: 65%;
+	color: rgb(131, 131, 131);
 	text-transform: uppercase;
 	font-size: 16px;
 	font-weight: 100;
 	letter-spacing: 2px;
 	border: none;
 	border-radius: 5px;
-	background: #7addc8;
+	background: rgb(221, 215, 215);
 	transition: width 0.4s ease;
 	outline: none;
-	top: -39px;
+	top: -8px;
+	height: 2%;
 }
 
-input[type="text"]:focus {
-	width: 300px;
+input::placeholder {
+	color: rgb(131, 131, 131);
+	font-size: 10px;
 }
 
 i {
 	position: relative;
 	left: -37px;
-	color: #8233c5;
-	bottom: 37px;
+	color: rgb(131, 131, 131);
+	bottom: 8px;
 }

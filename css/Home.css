@@ -17,6 +17,14 @@ body {
 	margin-bottom: 40px;
 }
 
+.logo {
+	height: 153px;
+	width: 220px;
+	object-fit: cover;
+	position: relative;
+	top: -35px;
+}
+
 .table-box {
 	margin: 50px auto;
 }
